@@ -1,0 +1,11 @@
+#right-boobs {
+    position: relative;
+    left: 10px;
+    top: -10px;
+    cursor: pointer;
+    transition: all 1s;
+}
+#status {
+    font-size: 20px;
+    color: blueviolet;
+}
